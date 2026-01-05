@@ -42,11 +42,7 @@
     <artifactId>commons-io</artifactId>
     <version>2.20.0</version>
 </dependency>
-  	<dependency>
-  		<groupId>BDDCucumberFrameworks</groupId>
-  		<artifactId>BDDCucumberFramework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   	<dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
